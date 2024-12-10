@@ -17,7 +17,7 @@ This project is built using Python, specifically in a Jupyter Notebook environme
 - **Prophet**: For time series forecasting.
 
 ## Dataset
-The dataset consists of sales records from January to June 2024, including:
+The used dataset consists of sales records from January to June 2024, including:
 - **Invoice Date**: The date of each transaction.
 - **Product Code**: Unique identifier for each product.
 - **Product Name**: Name of the product sold.
